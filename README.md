@@ -25,6 +25,7 @@ I dream of going a long way in development, creating a lot of experiences, solvi
 - 💻 Start in the job market
 - 👄Speak English fluently
 - 🌍 Meet other countries
+
 And a few more lost ones out there, just waiting for me to find...   🏃🏻‍♀️
 
 ## Contact me:
