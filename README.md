@@ -1,8 +1,4 @@
-# Hi there, I'm Ana 🙋🏻‍♀️
-
-I dream of going a long way in development, creating a lot of experiences, solving a lot of bugs and always doing my best to go beyond expectations, I want to challenge myself and surpass myself every day and I want to make people's daily lives easier through technology.
-
------------------
+# Hi there, I'm Ana :raising_hand:
 
 ## About me:
 
