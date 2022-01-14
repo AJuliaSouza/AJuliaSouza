@@ -11,11 +11,6 @@
 
 -----------------
 
-[![Ana Júlia Souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=AJuliaSouza&show_icons=true&theme=monokai)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJuliaSouza&layout=compact&theme=monokai)](https://github.com/AJuliaSouza)
-
------------------
-
 ## My ambitions:
 
 - 💻 Start in the job market
